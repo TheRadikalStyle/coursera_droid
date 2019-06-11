@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week2App</string>
+    <string name="main_description_hint">Descripción Contacto</string>
+    <string name="main_email_hint">Email</string>
+    <string name="main_phone_hint">Teléfono</string>
+    <string name="main_name_hint">Nombre completo</string>
+    <string name="main_button_next">Next</string>
+    <string name="second_textview_title">Confirmar Datos</string>
+    <string name="second_button_edit">Editar datos</string>
+</resources>
